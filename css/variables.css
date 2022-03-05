@@ -1,0 +1,48 @@
+/*-----------------------------------*\
+  #variables.css
+\*-----------------------------------*/
+
+/**
+ * copyright 2021 @codewithsadee 
+ */
+
+
+
+
+
+:root {
+
+  /**
+   * Colors 
+   */
+
+   --eerie-black-dark:#1d1b19;
+   --liver-chestunut: #96764f;
+   --battleship-gray: #878787;
+   --spanish-gray:    #999999;
+   --eerie-black:     #151412;
+   --smoky-black:     #181715;
+   --light-gray:      #cccccc;
+   --may-green:       #459a3c;
+   --gainsboro:       #dedede;
+   --white:           #ffffff;
+   --jet:             #333333;
+
+  /**
+   * Typograpy 
+   */
+
+  --fs-1: 36px;
+  --fs-2: 30px;
+  --fs-3: 24px;
+  --fs-4: 20px;
+  --fs-5: 18px;
+  --fs-6: 14px;
+
+  /**
+   * Others 
+   */
+
+  --default-transition: 0.25s ease;
+
+}
